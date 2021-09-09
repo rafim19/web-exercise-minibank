@@ -251,7 +251,7 @@ header {
   border-radius: 7px;
 }
 
-.form form section {
+.form form div {
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
@@ -263,7 +263,7 @@ header {
   font-weight: bold;
 }
 
-.form form section input {
+.form form div input {
   height: 2rem;
   border-color: black;
   border-radius: 5px;
